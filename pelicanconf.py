@@ -1,6 +1,6 @@
 AUTHOR = "Jon Kiddy"
 SITENAME = "Jon Kiddy"
-SITEURL = "jonkiddy.com"
+SITEURL = "https://www.jonkiddy.com"
 
 PATH = "content"
 
@@ -29,7 +29,7 @@ SOCIAL = (
     ("Another social link", "#"),
 )
 
-DEFAULT_PAGINATION = 15
+DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+# RELATIVE_URLS = True
